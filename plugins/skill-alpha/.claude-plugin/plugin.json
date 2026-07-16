@@ -1,4 +1,5 @@
 {
   "name": "skill-alpha",
-  "description": "POC plugin alpha, testing multi-plugin marketplace loading."
+  "description": "POC plugin alpha, testing multi-plugin marketplace loading.",
+  "version": "e4cfcafd03dc"
 }
