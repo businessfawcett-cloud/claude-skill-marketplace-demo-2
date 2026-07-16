@@ -1,0 +1,6 @@
+repo: claude-consumer-repo-b
+marketplace: claude-skill-marketplace-demo-2
+skills:
+  - skill-alpha
+  - skill-bravo
+  - skill-delta
