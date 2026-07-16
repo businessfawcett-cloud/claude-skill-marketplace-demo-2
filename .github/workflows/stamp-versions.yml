@@ -1,0 +1,30 @@
+name: Stamp per-skill versions
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "plugins/**"
+
+permissions:
+  contents: write
+
+jobs:
+  stamp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: node scripts/stamp-versions.js
+
+      - name: Commit stamped versions if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No version changes to commit."
+            exit 0
+          fi
+          git add plugins/*/.claude-plugin/plugin.json
+          git commit -m "Stamp per-skill versions [skip ci]"
+          git push
