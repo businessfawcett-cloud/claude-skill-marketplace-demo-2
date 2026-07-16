@@ -1,4 +1,5 @@
 {
   "name": "skill-delta",
-  "description": "POC plugin delta, testing granted-but-never-installed auto-install."
+  "description": "POC plugin delta, testing granted-but-never-installed auto-install.",
+  "version": "24762f0de8b3"
 }
