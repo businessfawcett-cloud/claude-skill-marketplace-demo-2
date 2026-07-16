@@ -1,0 +1,24 @@
+{
+  "name": "claude-skill-marketplace-demo-2",
+  "owner": {
+    "name": "businessfawcett-cloud"
+  },
+  "description": "POC marketplace testing whether multiple plugins from one marketplace all load simultaneously.",
+  "plugins": [
+    {
+      "name": "skill-alpha",
+      "source": "./plugins/skill-alpha",
+      "description": "POC plugin alpha."
+    },
+    {
+      "name": "skill-bravo",
+      "source": "./plugins/skill-bravo",
+      "description": "POC plugin bravo."
+    },
+    {
+      "name": "skill-charlie",
+      "source": "./plugins/skill-charlie",
+      "description": "POC plugin charlie."
+    }
+  ]
+}
