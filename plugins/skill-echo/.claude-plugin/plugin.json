@@ -1,0 +1,4 @@
+{
+  "name": "skill-echo",
+  "description": "POC plugin echo, used to defeat the reconciler early-exit in the cross-project corruption repro."
+}
