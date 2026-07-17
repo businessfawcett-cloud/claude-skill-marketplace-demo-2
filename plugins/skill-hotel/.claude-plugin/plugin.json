@@ -1,4 +1,5 @@
 {
   "name": "skill-hotel",
-  "description": "POC plugin hotel, used for revocation testing."
+  "description": "POC plugin hotel, used for revocation testing.",
+  "version": "fe17cd83a9fe"
 }

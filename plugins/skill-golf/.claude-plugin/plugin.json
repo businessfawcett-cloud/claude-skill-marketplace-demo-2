@@ -1,4 +1,5 @@
 {
   "name": "skill-golf",
-  "description": "POC plugin golf, used for revocation testing."
+  "description": "POC plugin golf, used for revocation testing.",
+  "version": "2892a3fb41b1"
 }

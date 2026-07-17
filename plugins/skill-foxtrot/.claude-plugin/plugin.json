@@ -1,4 +1,5 @@
 {
   "name": "skill-foxtrot",
-  "description": "POC plugin foxtrot, used for revocation testing."
+  "description": "POC plugin foxtrot, used for revocation testing.",
+  "version": "3b9b23113dcb"
 }
