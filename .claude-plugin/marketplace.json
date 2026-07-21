@@ -44,6 +44,26 @@
       "name": "skill-hotel",
       "source": "./plugins/skill-hotel",
       "description": "POC plugin hotel, used for revocation testing."
+    },
+    {
+      "name": "skill-india",
+      "source": "./plugins/skill-india",
+      "description": "POC plugin india, used to isolate whether an ordinary session start alone triggers the reconciler bug."
+    },
+    {
+      "name": "skill-juliet",
+      "source": "./plugins/skill-juliet",
+      "description": "POC plugin juliet, used to isolate whether an ordinary session start alone triggers the reconciler bug."
+    },
+    {
+      "name": "skill-kilo",
+      "source": "./plugins/skill-kilo",
+      "description": "POC plugin kilo, used to isolate whether an ordinary session start alone triggers the reconciler bug."
+    },
+    {
+      "name": "skill-lima",
+      "source": "./plugins/skill-lima",
+      "description": "POC plugin lima, used to isolate whether an ordinary session start alone triggers the reconciler bug."
     }
   ]
 }

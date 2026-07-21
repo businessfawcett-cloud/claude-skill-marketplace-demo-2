@@ -1,0 +1,4 @@
+{
+  "name": "skill-india",
+  "description": "POC plugin india, used to isolate whether an ordinary session start alone triggers the reconciler bug."
+}

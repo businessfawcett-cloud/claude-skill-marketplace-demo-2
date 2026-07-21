@@ -1,0 +1,4 @@
+{
+  "name": "skill-juliet",
+  "description": "POC plugin juliet, used to isolate whether an ordinary session start alone triggers the reconciler bug."
+}

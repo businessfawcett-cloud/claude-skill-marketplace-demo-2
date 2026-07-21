@@ -1,0 +1,4 @@
+{
+  "name": "skill-lima",
+  "description": "POC plugin lima, used to isolate whether an ordinary session start alone triggers the reconciler bug."
+}
