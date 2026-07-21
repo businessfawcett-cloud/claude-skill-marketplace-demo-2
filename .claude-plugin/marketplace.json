@@ -64,6 +64,16 @@
       "name": "skill-lima",
       "source": "./plugins/skill-lima",
       "description": "POC plugin lima, used to isolate whether an ordinary session start alone triggers the reconciler bug."
+    },
+    {
+      "name": "skill-mike",
+      "source": "./plugins/skill-mike",
+      "description": "POC plugin mike, used to re-test the corruption bug on the latest Claude Code release (2.1.216)."
+    },
+    {
+      "name": "skill-november",
+      "source": "./plugins/skill-november",
+      "description": "POC plugin november, used to re-test the corruption bug on the latest Claude Code release (2.1.216)."
     }
   ]
 }

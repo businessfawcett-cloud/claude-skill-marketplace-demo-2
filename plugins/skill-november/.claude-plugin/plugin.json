@@ -1,0 +1,4 @@
+{
+  "name": "skill-november",
+  "description": "POC plugin november, used to re-test the corruption bug on the latest Claude Code release (2.1.216)."
+}
