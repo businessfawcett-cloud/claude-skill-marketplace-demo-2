@@ -74,6 +74,36 @@
       "name": "skill-november",
       "source": "./plugins/skill-november",
       "description": "POC plugin november, used to re-test the corruption bug on the latest Claude Code release (2.1.216)."
+    },
+    {
+      "name": "skill-oscar",
+      "source": "./plugins/skill-oscar",
+      "description": "POC plugin oscar, used to test whether user-scope installs avoid the cross-project corruption bug."
+    },
+    {
+      "name": "skill-papa",
+      "source": "./plugins/skill-papa",
+      "description": "POC plugin papa, used to test whether user-scope installs avoid the cross-project corruption bug."
+    },
+    {
+      "name": "skill-quebec",
+      "source": "./plugins/skill-quebec",
+      "description": "POC plugin quebec, used to test whether user-scope installs avoid the cross-project corruption bug."
+    },
+    {
+      "name": "skill-romeo",
+      "source": "./plugins/skill-romeo",
+      "description": "POC plugin romeo, used to test whether user-scope installs avoid the cross-project corruption bug."
+    },
+    {
+      "name": "skill-sierra",
+      "source": "./plugins/skill-sierra",
+      "description": "POC plugin sierra, used to test whether user-scope installs avoid the cross-project corruption bug."
+    },
+    {
+      "name": "skill-tango",
+      "source": "./plugins/skill-tango",
+      "description": "POC plugin tango, used to test whether user-scope installs avoid the cross-project corruption bug."
     }
   ]
 }

@@ -1,0 +1,4 @@
+{
+  "name": "skill-sierra",
+  "description": "POC plugin sierra, used to test whether user-scope installs avoid the cross-project corruption bug."
+}

@@ -1,0 +1,4 @@
+{
+  "name": "skill-romeo",
+  "description": "POC plugin romeo, used to test whether user-scope installs avoid the cross-project corruption bug."
+}
