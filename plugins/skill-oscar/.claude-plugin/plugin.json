@@ -1,4 +1,5 @@
 {
   "name": "skill-oscar",
-  "description": "POC plugin oscar, used to test whether user-scope installs avoid the cross-project corruption bug."
+  "description": "POC plugin oscar, used to test whether user-scope installs avoid the cross-project corruption bug.",
+  "version": "df2c1d3d1de0"
 }

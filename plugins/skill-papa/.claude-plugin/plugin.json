@@ -1,4 +1,5 @@
 {
   "name": "skill-papa",
-  "description": "POC plugin papa, used to test whether user-scope installs avoid the cross-project corruption bug."
+  "description": "POC plugin papa, used to test whether user-scope installs avoid the cross-project corruption bug.",
+  "version": "faedf32bfd01"
 }

@@ -1,4 +1,5 @@
 {
   "name": "skill-quebec",
-  "description": "POC plugin quebec, used to test whether user-scope installs avoid the cross-project corruption bug."
+  "description": "POC plugin quebec, used to test whether user-scope installs avoid the cross-project corruption bug.",
+  "version": "8ae84a88c02f"
 }
